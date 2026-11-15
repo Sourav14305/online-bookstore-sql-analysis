@@ -1,5 +1,4 @@
-# online-bookstore-sql-analysis
-PostgreSQL project analyzing an online bookstore’s books, customers and orders using SQL: joins, aggregations, and inventory analysis.
+
 # 📚 Online Bookstore – SQL Data Analysis
 
 A PostgreSQL project that models an online bookstore with three related tables (**Books**, **Customers**, **Orders**) and answers 20 business questions using SQL — from basic filtering to joins, aggregations and inventory calculations.
